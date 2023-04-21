@@ -1,0 +1,21 @@
+<resources>
+
+    <!--ads id -->
+<!--    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="Interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!-- prod ads id -->
+    <string name="banner_id">ca-app-pub-7184144287523649/6905745502</string>
+    <string name="banner_id_select_format_screen">ca-app-pub-7184144287523649/8070647199</string>
+    <string name="Interstitial_id">ca-app-pub-7184144287523649/4750904198</string>
+
+    <string name="app_name">youtload</string>
+    <string name="this_is_a_free_application_that_let_user_to_download_youtube_videos_by_watching_adds_you_can_download_videos_by_watching_ads">This is a free application that let you to download youtube videos by watching adds, Ads is the only source of motivation for us. Fell free to give feedback and rating on Play Store.</string>
+    <string name="youtload">Youtload</string>
+    <string name="something">Something</string>
+    <string name="total_formate_found_30">Total Formate Found : 30</string>
+    <string name="description">Description :</string>
+    <string name="title">Title :</string>
+    <string name="https_www_youtube_com_watch_v_pywx8v5nmd8">https://www.youtube.com/watch?v=PYwX8V5nmD8</string>
+</resources>

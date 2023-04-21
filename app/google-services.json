@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079682666391",
+    "project_id": "youtload-ffae0",
+    "storage_bucket": "youtload-ffae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079682666391:android:a3665b49448beae6d27ed2",
+        "android_client_info": {
+          "package_name": "com.iab.youtload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079682666391-m7apa4utpph7aborbpcd9nqcugakveif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEB--cZLckYsRrDEpe0pXDpIUPdPL2Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079682666391-m7apa4utpph7aborbpcd9nqcugakveif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
